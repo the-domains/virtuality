@@ -1,0 +1,14 @@
+layout_spectrum: 0.005376344
+color:
+  saturation: 0.7724015
+  brandStrength: 0.5179211
+  lightness: 0.8315412
+  brandColors:
+    - '#FFFFFF'
+    - '#272839'
+    - '#E9D0A3'
+    - '#B4AB9A'
+    - '#81A2DF'
+  rhythmicContrast: 0.718638
+typography_spectrum: 0.7060932
+name: virtuality
